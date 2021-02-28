@@ -1,3 +1,8 @@
+div{
+    text-align: center;
+}
+ul { display: inline-block; text-align: left; }
+
 .topnav {
     background-color: rgb(43, 43, 184);
     overflow: hidden;
